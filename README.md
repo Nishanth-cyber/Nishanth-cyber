@@ -5,11 +5,22 @@
 
 ---
 
-## 🚀 Skills
-- **Languages:** Python, Java  
-- **AI/ML:** Machine Learning, Deep Learning, Computer Vision  
-- **Web Basics:** HTML, CSS, JavaScript, ReactJS 
-- **Tools:** Git, GitHub, Postman, Android Studio  
+## 🧰 Tech Stack & Tools
+
+### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🤖 AI / ML  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge)
+
+### 🛠 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
@@ -23,13 +34,31 @@
 ## 📌 Featured Projects
 - 🖼️ **AI Thumbnail Generator** – Flask + LLM + Image Processing  
 - 🎯 **AI Interview System** – AI-powered student practice interviewer  
+- 📊 **ML Projects** – Data analysis, prediction models & experiments  
 
 ---
 
 ## 📊 GitHub Stats
 ![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishanth-cyber&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth-cyber&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 LeetCode Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nishanth-cyber?theme=dark&font=Baloo)
+
+---
+
+## 🐍 Contribution Snake (Auto Animation)
+![Snake animation](https://github.com/Nishanth-cyber/Nishanth-cyber/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🌐 Connect With Me
-- Email: nishanths7pc@gmail.com
+- 📧 Email: nishanths7pc@gmail.com  
+- 🔗 LinkedIn: *(Add your LinkedIn link here)*
+
+---
+
+✨ *Always learning. Always building. Always improving.*
