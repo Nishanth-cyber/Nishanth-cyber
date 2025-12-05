@@ -39,7 +39,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishanth-cyber&show_icons=true&count_private=true&hide_border=true)
+![Nishanth's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nishanth-cyber&show_icons=true&count_private=true)
 
 ---
 
@@ -48,8 +48,8 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Animation)
-![Snake animation](https://github.com/Nishanth-cyber/Nishanth-cyber/blob/output/github-contribution-grid-snake.svg)
+## 📈 3D Contribution Graph
+![3D Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishanth-cyber&theme=tokyonight)
 
 ---
 
