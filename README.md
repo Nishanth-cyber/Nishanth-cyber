@@ -27,7 +27,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishanth-cyber&show_icons=true&theme=tokyonight)
+![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanths7pc&show_icons=true&theme=tokyonight)
 
 ---
 
