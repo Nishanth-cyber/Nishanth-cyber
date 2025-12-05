@@ -39,9 +39,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishanth-cyber&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth-cyber&layout=compact&theme=tokyonight)
+![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishanth-cyber&show_icons=true&count_private=true&hide_border=true)
 
 ---
 
