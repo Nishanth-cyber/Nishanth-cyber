@@ -46,7 +46,7 @@
 ---
 
 ## 🧠 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nishanth-cyber?theme=dark&font=Baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nishanth7pc?theme=dark&font=Baloo)
 
 ---
 
