@@ -1,7 +1,6 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=ffffff&width=700&lines=Hi!+I'm Nishanth+S" alt="Typing SVG" />
-  <br/>
-<p/>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=38BDF8&width=750&lines=Hey+👋;I'm+Nishanth+S;CS+Student+%7C+Developer;Learning.+Building.+Grinding." />
+</div>
 
 I am an Artificial Intelligence and Machine Learning student with a strong interest in building intelligent systems and solving real-world problems using data, algorithms, and software development. I enjoy combining machine learning with practical applications and continuously work on improving my problem-solving and development skills.
 
