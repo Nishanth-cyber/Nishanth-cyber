@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fire+Code&pause=2000&color=ffffff&width=700&lines=Hi!+I'm Nishanth+S" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=ffffff&width=700&lines=Hi!+I'm Nishanth+S" alt="Typing SVG" />
   <br/>
 <p/>
 
