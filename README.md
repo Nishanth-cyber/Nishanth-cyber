@@ -1,4 +1,7 @@
-# Hi, I'm Nishanth
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fire+Code&pause=2000&color=ffffff&width=700&lines=Hi!+I'm Nishanth+S" alt="Typing SVG" />
+  <br/>
+<p/>
 
 I am an Artificial Intelligence and Machine Learning student with a strong interest in building intelligent systems and solving real-world problems using data, algorithms, and software development. I enjoy combining machine learning with practical applications and continuously work on improving my problem-solving and development skills.
 
